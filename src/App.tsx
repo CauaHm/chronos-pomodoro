@@ -1,4 +1,4 @@
-function App() {
+export function App() {
   console.log('oi');
 
   return (
@@ -14,4 +14,3 @@ function App() {
   );
 }
 
-export default App;
